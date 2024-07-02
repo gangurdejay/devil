@@ -1,0 +1,3 @@
+Almost every cloud vendor offers the ability to choose from a range of different VM sizes. Choosing the right VM size can be a daunting task; too small and you can trigger performance issues or even downtimes during load spikes. Over-allocate? Then during normal load or idle periods all unused resources are wasted. Does this scenario look familiar from your own cloud hosted applications?
+
+In addition, if you need to add just a few more resources to the same VM, the only way out with most of current cloud vendors is to double your VM size. Exacerbating the problem, you need to incur downtime when you move, by stopping a current VM, performing all steps of application redeploy or migration, and then dealing with the inevitable associated challenges.
